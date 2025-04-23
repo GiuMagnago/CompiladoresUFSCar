@@ -1,5 +1,5 @@
+## Giuseppe Chaves Magnago - 811164
 # Analisador Léxico para a Linguagem LA
-
 Este é um projeto de um **Analisador Léxico** para a linguagem LA. O script foi desenvolvido para ler um arquivo de código fonte da linguagem LA e realizar a análise léxica, identificando os tokens de acordo com a gramática da linguagem. A saída gerada será uma lista de tokens identificados ou mensagens de erro, indicando problemas no código.
 
 ## Funcionalidades
