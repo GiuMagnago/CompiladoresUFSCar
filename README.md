@@ -1,24 +1,20 @@
+# Repositório da Matéria de Compiladores - Prof. Daniel Lucrédio (UFSCar 2025)
 ## Giuseppe Chaves Magnago - 811164
-# Analisador Léxico para a Linguagem LA
-Este é um projeto de um **Analisador Léxico** para a linguagem LA. O script foi desenvolvido para ler um arquivo de código fonte da linguagem LA e realizar a análise léxica, identificando os tokens de acordo com a gramática da linguagem. A saída gerada será uma lista de tokens identificados ou mensagens de erro, indicando problemas no código.
+Neste repositório estarão os códigos dos trabalhos práticos (1 ao 6) da matéria de Compiladores do Professor Daniel Lucrédio - Departamento de Computação, UFSCar 2025.
 
 ## Funcionalidades
 
-- **Identificação de Tokens:** O analisador léxico é responsável por identificar os seguintes tokens:
-  - Palavras reservadas (e.g., `algoritmo`, `fim_algoritmo`, `declare`)
-  - Identificadores
-  - Números inteiros e reais
-  - Operadores e símbolos (e.g., `+`, `-`, `<=`, `>`, `:=`, `*`, `,`, etc.)
-  - Cadeias literais (strings)
-  - Comentários
-  - Intervalos (`..`)
-  
-- **Tratamento de Erros:** O analisador também é capaz de detectar e reportar:
-  - Símbolos não identificados
-  - Comentários e cadeias literais não fechadas corretamente
-
 ## Como Usar
-Para testar o script, é necessário ter instalado o Java, Python 3.x, o GCC e o corretor (.jar) que se encontra no repositório. Com isso, basta rodar o comando seguinte:
+Para testar os script, é necessário ter os requisitos a seguir:
 
+### Para o primeiro trabalho (t1)
+Requisitos: Java, Python 3.x, o GCC e o corretor (.jar) que se encontra no repositório. Com isso, rodar o seguinte script:
 ```bash
 java -jar <caminho_absoluto_corretor(.jar)> "python <caminho absoluto para o script python>" <caminho_absoluto_MinGW> <diretório_temporário_para_as_saídas> <caminho_absoluto_casos_de_teste> "<RA>" <tipo_de_teste>
+```
+
+### Para os trabalhos restantes (t2, t3, t4, t5 e t6):
+Requisitos: Java, o GCC e o corretor (.jar) que se encontra no repositório. Com isso, rodar o seguinte script:
+```bash
+java -jar <caminho_absoluto_corretor(.jar)> "java -jar <caminho absoluto para o .jar com dependências>" <caminho_absoluto_MinGW> <diretório_temporário_para_as_saídas> <caminho_absoluto_casos_de_teste> "<RA>" <tipo_de_teste>
+```
