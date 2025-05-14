@@ -22,3 +22,4 @@ Para testar o script, é necessário ter instalado o Java, Python 3.x, o GCC e o
 
 ```bash
 java -jar <caminho_absoluto_corretor(.jar)> "python <caminho absoluto para o script python>" <caminho_absoluto_MinGW> <diretório_temporário_para_as_saídas> <caminho_absoluto_casos_de_teste> "<RA>" <tipo_de_teste>
+```
