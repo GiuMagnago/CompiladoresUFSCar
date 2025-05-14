@@ -9,5 +9,5 @@ Este é um projeto de um **Analisador Sintático** para a linguagem LA. O script
 Para testar o script, é necessário ter instalado o Java, o GCC e o corretor (.jar) que se encontra no repositório. Com isso, basta rodar o comando seguinte:
 
 ```bash
-java -jar <caminho_absoluto_corretor(.jar)> "java -jar <caminho absoluto para o .jar com dependências>" <caminho_absoluto_MinGW> <diretório_temporário_para_as_saídas> <caminho_absoluto_casos_de_teste> "<RA>" <t3>
+java -jar <caminho_absoluto_corretor(.jar)> "java -jar <caminho absoluto para o .jar com dependências>" <caminho_absoluto_MinGW> <diretório_temporário_para_as_saídas> <caminho_absoluto_casos_de_teste> "<RA>" "<t2>"
 ```
