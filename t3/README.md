@@ -1,5 +1,5 @@
 ## Giuseppe Chaves Magnago - 811164
-# Analisador Léxico para a Linguagem LA
+# Analisador Semântico para a Linguagem LA
 Este é um projeto de um **Analisador Semântico** para a linguagem LA. O script foi desenvolvido para ler um arquivo de código fonte da linguagem LA e realizar a análise semântica. A saída gerada será uma lista de mensagens de erro, indicando problemas no código.  
 
 **Tratamento de Erros:** 
