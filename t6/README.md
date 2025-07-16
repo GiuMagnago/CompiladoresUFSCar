@@ -14,7 +14,7 @@ candidato "Carlos Souza"
 candidato "Ana Beatriz"
 
 urna "001" {
-    voto "Pedro Santos" em "João da Silva"	    // ERRO_01 (voto repetido)
+    voto "Pedro Santos" em "João da Silva"     // ERRO_01 (voto repetido)
     voto "Larissa Almeida" em "Maria Oliveira"
     voto "Rafael Costa" em "Carlos Souza"
     voto "Beatriz Lima" em "Ana Beatriz"
