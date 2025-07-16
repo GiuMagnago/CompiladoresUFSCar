@@ -1,0 +1,29 @@
+--- Resultado por Urna ---
+Urna 001:
+  João da Silva: 1 voto(s)
+  Maria Oliveira: 1 voto(s)
+  Carlos Souza: 1 voto(s)
+  Ana Beatriz: 1 voto(s)
+
+Urna 002:
+  João da Silva: 2 voto(s)
+  Maria Oliveira: 1 voto(s)
+  Carlos Souza: 0 voto(s)
+  Ana Beatriz: 0 voto(s)
+
+Urna 003:
+  João da Silva: 0 voto(s)
+  Maria Oliveira: 0 voto(s)
+  Carlos Souza: 2 voto(s)
+  Ana Beatriz: 1 voto(s)
+
+--- Resultado Geral ---
+João da Silva: 3 voto(s)
+Maria Oliveira: 2 voto(s)
+Carlos Souza: 3 voto(s)
+Ana Beatriz: 2 voto(s)
+Empate entre: João da Silva, Carlos Souza
+
+--- Erros ---
+Erro: Eleitor "Pedro Santos" já votou.
+Erro: Candidato "Marcos Pereira" não existe.
