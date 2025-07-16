@@ -1,6 +1,6 @@
 ## Giuseppe Chaves Magnago - 811164
 # Compilador para contabilização de votos da eleição
-Este é um projeto de um **Compilador** para a linguagem que contabiliza votos de urnas na eleição.O compilador recebe um programa com extensão .el, faz a contabilização dos votos e apresenta o resultado dos votos, além também de mostrar os erros ocorridos durante a execução.
+Este é um projeto de um **Compilador** para a linguagem que contabiliza votos de urnas na eleição.O compilador recebe um programa com extensão .el, faz a contabilização dos votos e apresenta o resultado dos votos e também mostra os erros ocorridos durante a execução.
 
 ## Exemplo de Funcionamento
 **Entrada:**
